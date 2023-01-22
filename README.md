@@ -16,7 +16,7 @@
 
 
 
-    <img width="300" height="150" src="images/rise of empires.webp" alt="Rise of Empires: Netflix'te yayınlanan ve Vlad Dracula ile Fatih Sultan Mehmet arasında geçen savaşı konu alan bir dizidir. 6 bölümden oluşmaktadır.">
+    <img width="300" height="150" src="https://raw.githubusercontent.com/batuhansasmazz/Patika-devi/main/images/rise%20of%20empires.webp" alt="Rise of Empires: Netflix'te yayınlanan ve Vlad Dracula ile Fatih Sultan Mehmet arasında geçen savaşı konu alan bir dizidir. 6 bölümden oluşmaktadır.">
 
     <p> <span style="color: rgb(0, 102, 255);"> Rise of Empires: </span>Netflix'te yayınlanan ve Vlad Dracula ile Fatih 
     Sultan Mehmet arasında geçen savaşı konu alan bir dizidir. 6 bölümden oluşmaktadır.</p>
