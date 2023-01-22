@@ -1,0 +1,51 @@
+
+<!-- Başlık -->
+<h1> Batuhan Şaşmaz </h1>
+<hr>
+
+<!-- Hakkımda - açıklamasıyla bilrlikte oluşturuldu -->
+<h2> Hakkımda</h2>
+
+<p> Merhabalar. Ben Batuhan 26 yaşındayım ve İstanbulda yaşıyorum. İşletme mezunuyum, bugüne kadar yazılım ile ilgili hiçbir iş yapmadım. Bir arkadaşımın front-end development alanında çalışmasını gördüğümde ilgimi çekti ve bu şekilde eğitimlere katılmaya başladım. Kendimi geliştirerek bu alanda kariyer yapmak istiyorum. </p>
+
+<h3>  Hobilerim </h3>
+
+<li> Spor yapmak </li>
+<li> Balık tutmak </li>
+<li> Kamp yapmak </li>
+
+
+<div>
+
+    <img width="300" height="150" src="images/rise of empires.webp" alt="Rise of Empires: Netflix'te yayınlanan ve Vlad Dracula ile Fatih Sultan Mehmet arasında geçen savaşı konu alan bir dizidir. 6 bölümden oluşmaktadır.">
+
+    <p> <span style="color: rgb(0, 102, 255);"> Rise of Empires: </span>Netflix'te yayınlanan ve Vlad Dracula ile Fatih 
+    Sultan Mehmet arasında geçen savaşı konu alan bir dizidir. 6 bölümden oluşmaktadır.</p>
+    
+</div>
+
+
+<div>
+<h3> İlgi Alanlarım </h3>
+
+<ol type="I">
+    <li> Sevdiğim Diziler </li>
+        <ul>
+            <li>Rise Of Empires</li>
+            <li>Wednesday</li>
+        </ul>
+<br>
+    <li> Sevdiğim Filimler </li>
+        <ul>
+            <li> <a href="https://www.imdb.com/title/tt1631867/?ref_=tt_rt" target="_blank"> Edge of Tomorrow </a> </li>
+            <li> Sherlock Holmes</li>
+        </ul>
+<br>
+    <li> Sevdiğim Kitaplar </li>
+        <ul>
+            <li> <a href="https://www.goodreads.com/book/show/29893495-ela-g-zl-pars-celile?from_search=true&from_srp=true&qid=cGQ1UEk3D4&rank=1" target="_blank"> Celile: Ela Gözlü Pars </a></li>
+            <li> Otuz Beş Yaş(Bütün Şiirleri)</li>
+        </ul>
+</ol>
+        
+</div>
